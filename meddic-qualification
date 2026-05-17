@@ -1,0 +1,14 @@
+# 🎯 MEDDIC Enterprise Qualification Checklist
+
+A standardized framework for complex B2B SaaS deal qualification.
+
+## 📊 The Framework
+
+* **[M] Metrics:** What is the economic impact of the solution? (e.g., CPA reduction by 30%, ROI increase).
+* **[E] Economic Buyer:** Who has the ultimate authority to release funds? Have we spoken to them?
+* **[D] Decision Criteria:** What are the technical, vendor, and financial criteria the client uses to compare us with competitors?
+* **[D] Decision Process:** What are the exact steps to finalize the deal (legal, procurement, security review)?
+* **[I] Identify Pain:** What is the severe business pain? (e.g., high churn, data loss risk). What happens if they do nothing?
+* **[C] Champion:** Who is our internal advocate? Do they have power and influence within the buying organization?
+
+> *Note: Deals without a defined Economic Buyer and clear Metrics should be flagged as high-risk in the CRM.*
